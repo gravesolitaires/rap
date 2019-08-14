@@ -1,0 +1,10 @@
+[
+  "2018": {
+    "startTime": 0,
+    "rewards": [{"itemId": "coin", "count": 10000}]
+  },
+  "2019": {
+    "startTime": 0,
+    "rewards": [{"itemId": "coin", "count": 5000}]
+  }
+]
