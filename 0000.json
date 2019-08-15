@@ -1,10 +1,10 @@
 {
             "2015": {
                 "rewards": [{ "itemId": "coin", "count": 10000 },{"itemId":"undo","count":10},{"itemId":"more","count":20}],
-                "dec": "",
+                "dec": ""
             },
             "2016": {
                 "rewards": [{"itemId":"undo","count":10},{"itemId":"more","count":20}],
-                "dec": "",
+                "dec": ""
             }
         }
